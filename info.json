@@ -1,10 +1,19 @@
 {
-    "currently_under_test": "0",
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 729,
+            "invalid": 0,
+            "tested": 1450,
+            "up": 721
+        }
+    },
+    "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Thu Jun 20 10:58:35 2019",
     "end_epoch": 1561028315.556412,
-    "last_autosave_datetime": "Thu Jun 20 10:54:05 2019",
-    "last_autosave_epoch": 1561028045.610937,
+    "last_autosave_datetime": "Fri Jun 21 20:48:17 2019",
+    "last_autosave_epoch": 1561150097.444743,
     "name": "BadIPs.com_Level_5",
     "previous_stats": {
         "builds": 56,
@@ -20,6 +29,6 @@
         "whitelisted.list": 44425
     },
     "raw_link": "http://www.badips.com/get/list/any/5?age=12",
-    "start_datetime": "Wed Jun 19 20:43:08 2019",
-    "start_epoch": 1560976988.032795
+    "start_datetime": "Fri Jun 21 20:38:15 2019",
+    "start_epoch": 1561149495.227524
 }
